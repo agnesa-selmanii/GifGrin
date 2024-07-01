@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/memeGenerator"
+        android:title="GifGrin Meme"></item>
+
+    <item android:id="@+id/imageSearch"
+        android:title="GifGrin Images"></item>
+
+    <item android:id="@+id/logout"
+        android:title="Logout"></item>
+</menu>
